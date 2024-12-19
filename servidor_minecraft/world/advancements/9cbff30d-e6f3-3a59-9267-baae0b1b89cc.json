@@ -2514,7 +2514,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-16 07:28:12 +0000",
-      "minecraft:nether_wastes": "2024-12-16 07:33:36 +0000"
+      "minecraft:nether_wastes": "2024-12-16 07:33:36 +0000",
+      "minecraft:soul_sand_valley": "2024-12-19 05:05:40 +0000"
     },
     "done": false
   },
@@ -3013,6 +3014,30 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-12-18 04:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-19 05:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-19 05:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-19 05:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-19 05:05:48 +0000"
     },
     "done": true
   },
