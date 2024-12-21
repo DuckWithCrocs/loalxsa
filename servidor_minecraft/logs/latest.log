@@ -80,3 +80,7 @@
 [07:21:44] [Server thread/INFO]: [Pato_con_flow: Killed 336 entities]
 [07:21:50] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
 [07:21:50] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[08:37:31] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
+[08:37:31] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
+[08:38:02] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
+[08:38:02] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
