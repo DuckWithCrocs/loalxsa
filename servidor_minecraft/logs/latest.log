@@ -63,3 +63,20 @@
 [07:14:14] [User Authenticator #3/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
 [07:14:15] [Server thread/INFO]: Pato_con_flow joined the game
 [07:14:15] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:39125] logged in with entity id 14442 at ([world]1862.1042123236525, 61.712277531668256, 324.8969644451384)
+[07:18:05] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
+[07:18:05] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
+[07:18:12] [Server thread/INFO]: Pato_con_flow issued server command: /kill @a
+[07:18:12] [Server thread/INFO]: Pato_con_flow was killed
+[07:18:12] [Server thread/INFO]: [Pato_con_flow: Killed Pato_con_flow]
+[07:18:33] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
+[07:18:33] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[07:19:52] [Server thread/INFO]: Pato_con_flow issued server command: /kill @n
+[07:19:52] [Server thread/INFO]: Pato_con_flow was killed
+[07:19:52] [Server thread/INFO]: [Pato_con_flow: Killed Pato_con_flow]
+[07:21:36] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
+[07:21:36] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
+[07:21:44] [Server thread/INFO]: Pato_con_flow issued server command: /kill @e
+[07:21:44] [Server thread/INFO]: Pato_con_flow was killed
+[07:21:44] [Server thread/INFO]: [Pato_con_flow: Killed 336 entities]
+[07:21:50] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
+[07:21:50] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
