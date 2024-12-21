@@ -42,3 +42,8 @@
 [06:17:00] [User Authenticator #0/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
 [06:17:03] [Server thread/INFO]: Pato_con_flow joined the game
 [06:17:04] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:52935] logged in with entity id 42 at ([world]1243.300000011921, 75.0, 1468.699999988079)
+[06:35:27] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[06:35:27] [Server thread/INFO]: Pato_con_flow left the game
+[06:35:33] [User Authenticator #1/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[06:35:35] [Server thread/INFO]: Pato_con_flow joined the game
+[06:35:35] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:44033] logged in with entity id 4005 at ([world]1113.5164246300258, 63.0, 1306.521736850791)
