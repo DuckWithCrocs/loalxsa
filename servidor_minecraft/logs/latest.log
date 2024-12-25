@@ -62,3 +62,6 @@
 [16:59:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Pato_con_flow> 697 -15 1207
 [17:03:56] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
 [17:03:56] [Server thread/INFO]: Pato_con_flow left the game
+[17:12:17] [User Authenticator #2/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[17:12:18] [Server thread/INFO]: Pato_con_flow joined the game
+[17:12:18] [Server thread/INFO]: Pato_con_flow[/127.51.22.220:45993] logged in with entity id 18161 at ([world]675.2574058155075, -15.0, 1209.5321395373085)
