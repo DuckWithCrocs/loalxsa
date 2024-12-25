@@ -142,3 +142,31 @@
 [07:11:03] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
 [07:11:03] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
 [07:11:09] [Server thread/INFO]: Pato_con_flow has completed the challenge [Hero of the Village]
+[07:18:49] [Server thread/INFO]: Pato_con_flow issued server command: /give Pato_con_flow minecraft:flint_and_steel
+[07:18:49] [Server thread/INFO]: [Pato_con_flow: Gave 1 [Flint and Steel] to Pato_con_flow]
+[07:28:11] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[07:28:11] [Server thread/INFO]: Pato_con_flow left the game
+[07:28:22] [Server thread/INFO]: Stopping the server
+[07:28:22] [Server thread/INFO]: Stopping server
+[07:28:22] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
+[07:28:22] [Server thread/INFO]: Saving players
+[07:28:22] [Server thread/INFO]: Saving worlds
+[07:28:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 107 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[07:28:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Saved 122 block chunks, 166 entity chunks, 0 poi chunks in world 'world_nether' in 0.15s
+[07:28:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:28:22] [Server thread/INFO]: [ChunkHolderManager] Saved 356 block chunks, 19 entity chunks, 0 poi chunks in world 'world_the_end' in 0.11s
+[07:28:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:28:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:28:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:28:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
