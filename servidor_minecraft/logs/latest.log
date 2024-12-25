@@ -44,3 +44,19 @@
 [16:21:25] [Server thread/INFO]: Pato_con_flow[/127.51.22.220:48061] logged in with entity id 56 at ([world_nether]78.58554778284582, 14.0, -9.35981689050799)
 [16:26:22] [Server thread/WARN]: Pato_con_flow moved too quickly! -0.6410713970924462,-0.796735600668697,-18.846050594736994
 [16:27:58] [Server thread/WARN]: Pato_con_flow moved wrongly!
+[16:32:37] [Server thread/INFO]: Pato_con_flow has made the advancement [Who is Cutting Onions?]
+[16:42:57] [Server thread/INFO]: Pato_con_flow issued server command: /ping
+[16:43:02] [Server thread/INFO]: Pato_con_flow issued server command: /tps
+[16:43:56] [Server thread/WARN]: Pato_con_flow moved too quickly! -32.975339432674446,-3.532643874932063,0.02102410866621085
+[16:44:11] [Server thread/INFO]: Pato_con_flow lost connection: Timed out
+[16:44:11] [Server thread/INFO]: Pato_con_flow left the game
+[16:44:23] [User Authenticator #1/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[16:44:30] [Server thread/INFO]: Pato_con_flow joined the game
+[16:44:30] [Server thread/INFO]: Pato_con_flow[/127.51.22.220:40967] logged in with entity id 8850 at ([world]3743.628482910255, 119.37899691310555, 689.2338630673333)
+[16:56:51] [Server thread/INFO]: Pato_con_flow has completed the challenge [Cover Me in Debris]
+[16:57:52] [Server thread/INFO]: Pato_con_flow issued server command: /seed
+[16:58:39] [Server thread/INFO]: Pato_con_flow issued server command: /tp 697 -15 1207
+[16:58:39] [Server thread/INFO]: [Pato_con_flow: Teleported Pato_con_flow to 697.500000, -15.000000, 1207.500000]
+[16:58:59] [Server thread/INFO]: Pato_con_flow issued server command: /tp 1100 57 1300
+[16:58:59] [Server thread/INFO]: [Pato_con_flow: Teleported Pato_con_flow to 1100.500000, 57.000000, 1300.500000]
+[16:59:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Pato_con_flow> 697 -15 1207

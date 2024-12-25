@@ -10,14 +10,22 @@
       "minecraft:cold_ocean": "2024-12-19 04:36:33 +0000",
       "minecraft:beach": "2024-12-12 03:19:28 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-19 04:38:32 +0000",
+      "minecraft:dark_forest": "2024-12-25 16:43:46 +0000",
       "minecraft:forest": "2024-12-12 02:05:59 +0000",
       "minecraft:taiga": "2024-12-12 03:10:43 +0000",
       "minecraft:river": "2024-12-12 02:15:31 +0000",
       "minecraft:snowy_taiga": "2024-12-12 02:08:58 +0000",
       "minecraft:dripstone_caves": "2024-12-12 13:49:30 +0000",
+      "minecraft:frozen_peaks": "2024-12-25 16:45:33 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-25 16:45:45 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-25 16:43:29 +0000",
       "minecraft:frozen_river": "2024-12-12 02:10:23 +0000",
       "minecraft:windswept_forest": "2024-12-14 18:24:28 +0000",
+      "minecraft:jungle": "2024-12-25 16:42:15 +0000",
       "minecraft:swamp": "2024-12-12 03:35:43 +0000",
+      "minecraft:grove": "2024-12-25 16:43:40 +0000",
+      "minecraft:meadow": "2024-12-25 16:43:39 +0000",
+      "minecraft:birch_forest": "2024-12-25 16:42:39 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-12 03:23:26 +0000",
       "minecraft:windswept_hills": "2024-12-12 03:23:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-12 03:16:31 +0000",
@@ -3541,6 +3549,54 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-12-25 07:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-25 16:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-25 16:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-25 16:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-25 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-25 16:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-25 16:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-25 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-25 16:50:24 +0000"
     },
     "done": true
   },
