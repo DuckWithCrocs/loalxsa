@@ -3479,6 +3479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-25 06:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-25 05:59:40 +0000"
