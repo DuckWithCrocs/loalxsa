@@ -95,3 +95,7 @@
 [06:02:09] [Paper Watchdog Thread/ERROR]: ------------------------------
 [06:02:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10256ms or 205 ticks behind
 [06:13:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Pato_con_flow> -7 57 -1023
+[06:49:27] [Server thread/INFO]: Pato_con_flow has made the advancement [Voluntary Exile]
+[06:49:27] [Server thread/INFO]: Named entity Pillager['pendejo'/22209, uuid='45f3df99-676f-4c83-80eb-5f549cc54d6c', l='ServerLevel[world]', x=1125.70, y=61.00, z=1329.70, cpos=[70, 83], tl=157450, v=true] died: pendejo was slain by Pato_con_flow
+[06:55:41] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
+[06:55:41] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
