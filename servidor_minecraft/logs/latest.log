@@ -65,3 +65,15 @@
 [17:12:17] [User Authenticator #2/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
 [17:12:18] [Server thread/INFO]: Pato_con_flow joined the game
 [17:12:18] [Server thread/INFO]: Pato_con_flow[/127.51.22.220:45993] logged in with entity id 18161 at ([world]675.2574058155075, -15.0, 1209.5321395373085)
+[17:21:20] [Server thread/INFO]: Pato_con_flow issued server command: /chunky
+[17:24:02] [Server thread/INFO]: Pato_con_flow issued server command: /save
+[17:24:04] [Server thread/INFO]: Pato_con_flow issued server command: /save-all
+[17:24:04] [Server thread/INFO]: [Pato_con_flow: Saved the game]
+[17:27:43] [Server thread/WARN]: Pato_con_flow moved wrongly!
+[17:27:50] [Server thread/INFO]: Pato_con_flow lost connection: Timed out
+[17:27:50] [Server thread/INFO]: Pato_con_flow left the game
+[17:28:08] [User Authenticator #3/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[17:28:10] [Server thread/INFO]: Pato_con_flow joined the game
+[17:28:10] [Server thread/INFO]: Pato_con_flow[/127.51.22.220:48561] logged in with entity id 21232 at ([world]822.6283526903713, 92.3361339063942, 1223.5402921573584)
+[17:29:41] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[17:29:41] [Server thread/INFO]: Pato_con_flow left the game
