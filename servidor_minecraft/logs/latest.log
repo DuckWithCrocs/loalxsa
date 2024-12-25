@@ -112,3 +112,33 @@
 [06:59:55] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
 [06:59:55] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
 [07:04:04] [Server thread/INFO]: Pato_con_flow has reached the goal [Postmortal]
+[07:06:49] [Server thread/INFO]: Pato_con_flow was slain by Vindicator
+[07:06:53] [Server thread/INFO]: Pato_con_flow lost connection: Timed out
+[07:06:53] [Server thread/INFO]: Pato_con_flow left the game
+[07:06:53] [User Authenticator #2/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[07:06:55] [Server thread/INFO]: Pato_con_flow joined the game
+[07:06:55] [Server thread/INFO]: Pato_con_flow[/127.174.62.239:59935] logged in with entity id 27890 at ([world]1177.7348369809386, 63.41999998688698, 1314.9758804366752)
+[07:07:04] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
+[07:07:04] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
+[07:07:06] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
+[07:07:06] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[07:07:07] [Server thread/INFO]: Pato_con_flow issued server command: /tp 1100 ~ 1300
+[07:07:07] [Server thread/INFO]: [Pato_con_flow: Teleported Pato_con_flow to 1100.500000, -19.000000, 1300.500000]
+[07:07:08] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[07:07:08] [Server thread/INFO]: Pato_con_flow left the game
+[07:07:20] [User Authenticator #2/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[07:07:22] [Server thread/INFO]: Pato_con_flow joined the game
+[07:07:22] [Server thread/INFO]: Pato_con_flow[/127.51.22.220:39809] logged in with entity id 28439 at ([world]1100.300000011921, -18.955231956832886, 1300.300000011921)
+[07:07:24] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
+[07:07:24] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
+[07:07:42] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
+[07:07:42] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[07:10:01] [Server thread/INFO]: Pato_con_flow issued server command: /give
+[07:10:06] [Server thread/INFO]: Pato_con_flow issued server command: /give Pato_con_flow totem
+[07:10:08] [Server thread/INFO]: Pato_con_flow issued server command: /give Pato_con_flow minecraft:totem_of_undying
+[07:10:08] [Server thread/INFO]: [Pato_con_flow: Gave 1 [Totem of Undying] to Pato_con_flow]
+[07:10:56] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
+[07:10:56] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
+[07:11:03] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
+[07:11:03] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[07:11:09] [Server thread/INFO]: Pato_con_flow has completed the challenge [Hero of the Village]
