@@ -67,3 +67,55 @@
 [20:48:03] [Server thread/INFO]: [Not Secure] [Server] hola
 [20:48:10] [Server thread/INFO]: Pato_con_flow issued server command: /say hola server
 [20:48:10] [Async Chat Thread - #0/INFO]: [Not Secure] [Pato_con_flow] hola server
+[21:08:56] [Server thread/INFO]: Pato_con_flow issued server command: /reload
+[21:08:56] [Server thread/INFO]: Pato_con_flow: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[21:09:00] [Server thread/INFO]: Pato_con_flow issued server command: /reload confirm
+[21:09:00] [Server thread/INFO]: Pato_con_flow: Please note that this command is not supported and may cause issues when using some plugins.
+[21:09:00] [Server thread/INFO]: Pato_con_flow: If you encounter any issues please use the /stop command to restart your server.
+[21:09:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:09:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:09:00] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
+[21:09:01] [Server thread/INFO]: Loaded 1290 recipes
+[21:09:01] [Server thread/INFO]: Loaded 1399 advancements
+[21:09:01] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:09:01] [Paper Async Command Builder Thread Pool - 7/ERROR]: Caught previously unhandled exception :
+[21:09:01] [Paper Async Command Builder Thread Pool - 7/ERROR]: Paper Async Command Builder Thread Pool - 7
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:09:01] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[21:09:03] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 1871ms.
+[21:09:03] [Server thread/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[21:09:03] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - Chunky (1.4.28), SkinsRestorer (15.5.1)
+[21:09:03] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
+[21:09:03] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[21:09:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:09:03] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[21:09:04] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:09:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[21:09:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:09:06] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:09:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:09:06] [Server thread/INFO]: Pato_con_flow: Reload complete.
+[21:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5617ms or 112 ticks behind
+[21:09:06] [Server thread/INFO]: Timings Reset
+[21:09:12] [Server thread/INFO]: Pato_con_flow issued server command: /skin set CaydenMichaell
