@@ -45,3 +45,7 @@
 [19:48:04] [Server thread/WARN]: Pato_con_flow moved wrongly!
 [19:48:31] [Server thread/INFO]: Pato_con_flow has reached the goal [Beaconator]
 [19:48:31] [Server thread/INFO]: Pato_con_flow has made the advancement [Bring Home the Beacon]
+[20:10:00] [Server thread/INFO]: Pato_con_flow issued server command: /data
+[20:10:04] [Server thread/INFO]: Pato_con_flow issued server command: /data get
+[20:10:10] [Server thread/INFO]: Pato_con_flow issued server command: /data get storage
+[20:10:12] [Server thread/INFO]: Pato_con_flow issued server command: /data get storage 3
