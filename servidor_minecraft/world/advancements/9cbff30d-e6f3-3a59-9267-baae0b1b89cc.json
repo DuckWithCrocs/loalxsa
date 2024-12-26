@@ -533,6 +533,7 @@
       "minecraft:spider": "2024-12-12 02:53:22 +0000",
       "minecraft:piglin_brute": "2024-12-21 14:57:15 +0000",
       "minecraft:creeper": "2024-12-12 02:45:05 +0000",
+      "minecraft:wither": "2024-12-26 19:36:10 +0000",
       "minecraft:slime": "2024-12-16 08:47:04 +0000",
       "minecraft:evoker": "2024-12-25 07:02:21 +0000",
       "minecraft:phantom": "2024-12-14 19:10:51 +0000",
@@ -545,6 +546,7 @@
       "minecraft:piglin": "2024-12-16 07:48:19 +0000",
       "minecraft:enderman": "2024-12-14 18:18:17 +0000",
       "minecraft:stray": "2024-12-25 17:00:57 +0000",
+      "minecraft:endermite": "2024-12-26 19:30:08 +0000",
       "minecraft:vex": "2024-12-25 07:01:00 +0000",
       "minecraft:zombie": "2024-12-12 02:20:21 +0000",
       "minecraft:drowned": "2024-12-12 17:20:07 +0000",
@@ -3685,6 +3687,18 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-26 19:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-26 19:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-26 19:36:11 +0000"
     },
     "done": true
   },
