@@ -49,3 +49,5 @@
 [18:27:11] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:59247] logged in with entity id 4454 at ([world]1084.5134613789548, 62.0, 1331.699999988079)
 [18:48:55] [Server thread/WARN]: Pato_con_flow moved wrongly!
 [19:06:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Pato_con_flow> 149 101 178
+[19:10:59] [Server thread/INFO]: Pato_con_flow has made the advancement [Spooky Scary Skeleton]
+[19:19:51] [Server thread/INFO]: Villager Villager['Villager'/13905, uuid='9166a5b3-96d6-4c03-a916-7b735a4b2146', l='ServerLevel[world]', x=1153.48, y=84.56, z=1297.30, cpos=[72, 81], tl=333116, v=true] died, message: 'Villager was slain by Zombie'
