@@ -42,3 +42,8 @@
 [18:09:38] [User Authenticator #0/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
 [18:09:41] [Server thread/INFO]: Pato_con_flow joined the game
 [18:09:41] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:34305] logged in with entity id 56 at ([world]1168.6009539543538, 63.0, 1303.943380982376)
+[18:27:07] [Server thread/INFO]: Pato_con_flow lost connection: Kicked for exceeding packet rate limit
+[18:27:07] [Server thread/INFO]: Pato_con_flow left the game
+[18:27:10] [User Authenticator #1/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[18:27:11] [Server thread/INFO]: Pato_con_flow joined the game
+[18:27:11] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:59247] logged in with entity id 4454 at ([world]1084.5134613789548, 62.0, 1331.699999988079)
