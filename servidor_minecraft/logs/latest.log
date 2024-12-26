@@ -49,3 +49,18 @@
 [20:10:04] [Server thread/INFO]: Pato_con_flow issued server command: /data get
 [20:10:10] [Server thread/INFO]: Pato_con_flow issued server command: /data get storage
 [20:10:12] [Server thread/INFO]: Pato_con_flow issued server command: /data get storage 3
+[20:21:09] [Server thread/INFO]: Pato_con_flow was doomed to fall
+[20:21:15] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
+[20:21:15] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
+[20:21:34] [Server thread/INFO]: Pato_con_flow issued server command: /locate structure minecraft:stronghold
+[20:21:34] [Server thread/INFO]: Locating element minecraft:stronghold took 12 ms
+[20:21:37] [Server thread/INFO]: Pato_con_flow issued server command: /tp @s 720 ~ 1760
+[20:21:37] [Server thread/INFO]: [Pato_con_flow: Teleported Pato_con_flow to 720.500000, 86.471164, 1760.500000]
+[20:21:42] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode adventure
+[20:21:42] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Adventure Mode]
+[20:21:44] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
+[20:21:44] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[20:21:55] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode creative
+[20:21:55] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Creative Mode]
+[20:22:03] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
+[20:22:03] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
