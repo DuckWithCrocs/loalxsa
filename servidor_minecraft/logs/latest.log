@@ -64,3 +64,6 @@
 [20:21:55] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Creative Mode]
 [20:22:03] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
 [20:22:03] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[20:48:03] [Server thread/INFO]: [Not Secure] [Server] hola
+[20:48:10] [Server thread/INFO]: Pato_con_flow issued server command: /say hola server
+[20:48:10] [Async Chat Thread - #0/INFO]: [Not Secure] [Pato_con_flow] hola server
