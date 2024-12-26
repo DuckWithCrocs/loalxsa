@@ -167,3 +167,4 @@ java.util.ConcurrentModificationException: null
 [21:33:05] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Creative Mode]
 [21:34:10] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
 [21:34:10] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[21:38:32] [Server thread/INFO]: Villager Villager['Weaponsmith'/20612, uuid='d158093d-b41a-42b8-a540-6e708c551179', l='ServerLevel[world]', x=728.83, y=64.59, z=1674.94, cpos=[45, 104], tl=8734, v=true] died, message: 'Weaponsmith was slain by Zombie'
